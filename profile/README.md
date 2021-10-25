@@ -3,7 +3,7 @@
 
 ### Who are we?
 <!-- https://gdscaec.org/ -->
-[Google Developer Student Club, Aditya Engineering College]() is a Google Developers program for university students to learn programming skills. The club is open to any student, ranging from novice developers who are just starting, to advanced developers who want to further their skills.
+[Google Developer Student Club, Aditya Engineering College](https://gdsc.community.dev/aditya-engineering-college-surampalem/) is a Google Developers program for university students to learn programming skills. The club is open to any student, ranging from novice developers who are just starting, to advanced developers who want to further their skills.
 The club is intended as a space for students to try out new ideas and collaborate to solve mobile and web development problems. 
 
 ---
